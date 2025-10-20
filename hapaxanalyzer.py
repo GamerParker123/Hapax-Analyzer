@@ -32,4 +32,4 @@ def analyze_hapaxes(filepath):
     plt.show()
 
 # PUT FILE HERE
-analyze_hapaxes('Thought Journal.txt')
+analyze_hapaxes('FILE_NAME.txt')
